@@ -1,5 +1,6 @@
-# premier SCRIPT
+#!/usr/bin/python3
+#-*- coding: utf-8 -*-
+
 print("hello")
-for in range(5):
-    print(f"hello{i}"")
-    
+for i in range(5):
+    print(f"{i}")
