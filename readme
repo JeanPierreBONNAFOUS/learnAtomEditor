@@ -13,3 +13,7 @@ Je viens de lier ATOM avec mon compte GITHUB.
 Je viens de créer le REPO ORIGIN sur GITHUB depuis ATOM
 -------------------------------------------------------
 Commit, Push, fetch,  pull
+
+Naviguer dans les deux onglets de droites pour passer du repo local au remote.
+Faire un fetch régulièrement pour vérifier si il n'y a pas de Différence entre les deux repo
+Si besoin d'un Pull, le nb de commit est affiché Pull x
