@@ -17,3 +17,8 @@ Commit, Push, fetch,  pull
 Naviguer dans les deux onglets de droites pour passer du repo local au remote.
 Faire un fetch régulièrement pour vérifier si il n'y a pas de Différence entre les deux repo
 Si besoin d'un Pull, le nb de commit est affiché Pull x
+
+Si sur le repo distant, il y a eu 2 Commit
+Localemennt en faisant un fetch, je vois que j'ai 2 PULL à faire.
+Le pull ajoute les deux fichiers localement.
+Si je n'ai rien fait sur local, je devrai avoir pas besoin de faire de push!
