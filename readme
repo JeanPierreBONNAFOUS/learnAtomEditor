@@ -22,3 +22,6 @@ Si sur le repo distant, il y a eu 2 Commit
 Localemennt en faisant un fetch, je vois que j'ai 2 PULL à faire.
 Le pull ajoute les deux fichiers localement.
 Si je n'ai rien fait sur local, je devrai avoir pas besoin de faire de push!
+
+Comment je pourrai déplacer le repo remote de Github vers gitlab?
+Comment je pourrai déclarer le repo remote sur Tedomum
